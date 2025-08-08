@@ -2,7 +2,7 @@ from setuptools import setup
 import setuptools
 
 setup(name = 'serialDevUtil',
-      version = '0.9.1',
+      version = '1.0.0',
       author = 'OpenZSD',
       author_email = 'open@z-softdevelopment.com',
       description = 'A simple util to find known devices for serial communication',

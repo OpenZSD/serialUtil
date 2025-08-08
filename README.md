@@ -2,3 +2,11 @@
 
 # serialUtil
 A simple util to find known devices for serial communication
+
+## Building
+Run `./buildWhl.sh`
+
+## Installing
+Use pip3 to install the built whl file, in some cases you may need to add the extra flag `--break-system-packages`
+
+`pip3 install dist/serialDevUtil-1.0.0-py3-none-any.whl --break-system-packages`
