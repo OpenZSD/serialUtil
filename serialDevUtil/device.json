@@ -1,0 +1,33 @@
+{
+    "ARDUINO": {
+        "VID": 9025,
+        "DEV": [ ["Uno",1], ["Uno R3",67], ["Leonardo",54], ["Leonardo",32822], ["Mega2560",16], ["Mega2560 R3",66], 
+                 ["Micro",55], ["Micro",32823], ["Due",61], ["Zero",77], ["Zero",32845], ["Genuino Uno R3",579],
+                 ["Genuino Mega2560 R3", 578]
+        ]
+    },
+    "PI": {
+        "VID": 11914,
+        "DEV": [ ["PICO",32778] ]
+    },
+    "FTDI": {
+        "VID": 1027,
+        "DEV": [ ["COM1",24577 ]
+        ]
+    },
+    "WCH": {
+        "VID": 6790,
+        "DEV": [ ["COM1",29987 ]
+        ]
+    },
+    "SILABS": {
+        "VID": 4292,
+        "DEV": [ ["COM1",60000 ], ["COM2",60003 ]
+        ]
+    },
+    "PROLIFIC": {
+        "VID": 1659,
+        "DEV": [ ["COM1",8963 ]
+        ]
+    }
+}
